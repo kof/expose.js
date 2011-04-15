@@ -1,3 +1,10 @@
+/*!
+ * expose.js
+ * 
+ * @author Oleg Slobodskoi
+ * @website https://github.com/kof/expose.js
+ * @licence Dual licensed under the MIT or GPL Version 2 licenses.
+ */
 function expose(namespace, api) {
     var env = {};
     
